@@ -22,15 +22,31 @@ title: Graph Quilt
 email: graphquilt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Documentation for GraphQL Quilt
+logo: /assets/img/logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+remote_theme: just-the-docs/just-the-docs
+#theme: minima
 plugins:
   - jekyll-feed
+
+aux_links:
+  "GitHub":
+    - "//github.com/graph-quilt"
+aux_links_new_tab: true
+
+# External navigation links
+nav_external_links:
+  - title: Documentation
+    url: https://graph-quilt.github.io/graphql-orchestrator-java/
+    hide_icon: false
+  - title: Blogs
+    url: https://graphquilt.medium.com/
+    hide_icon: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
