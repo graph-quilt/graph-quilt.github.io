@@ -1,6 +1,6 @@
 ---
 title: "Field Links"
-permalink: /docs/field-links
+permalink: /docs/field-links/
 toc: false
 ---
 
