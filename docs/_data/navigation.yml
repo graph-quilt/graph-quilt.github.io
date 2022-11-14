@@ -1,0 +1,31 @@
+# main links
+main:
+  - title: "Documentation"
+    url: /docs/getting-started/
+  - title: "Blogs"
+    url: https://graphquilt.medium.com/
+
+
+# documentation links
+docs:
+  - title: Guides
+    children:
+      - title: "Getting Started"
+        url: /docs/getting-started/
+#      - title: "Using Built-in GraphiQL"
+#        url: /docs/using-graphiql/
+  - title: Key Concepts
+    children:
+      - title: "Algorithm"
+        url: /docs/algorithm/
+      - title: "Type Conflict Resolution"
+        url: /docs/conflict-resolution/
+      - title: "Field Links"
+        url: /docs/field-links/
+      - title: "Query Execution"
+        url: /docs/graphql-query-execution/
+      - title: "Interface and Unions"
+        url: /docs/interface-union-types/
+      - title: "Merging Types"
+        url: /docs/merging-types/
+
