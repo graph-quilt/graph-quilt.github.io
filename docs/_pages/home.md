@@ -20,13 +20,13 @@ feature_row:
   - #image_path: /assets/images/REPLACE_THIS
     title: "Federation + Stitching"
     excerpt: "Build your unified schema from Federation compliant services or from simple/pure GraphQL Services."
-    url: "/docs/federation/"
+    url: "https://github.com/graph-quilt/graphql-orchestrator-java"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - #image_path: /assets/images/REPLACE_THIS
     title: "Supports REST APIs"
     excerpt: "With REST Adapter, your REST Services can be part of the unified GraphQL Schema as well!"
-    url: "/docs/rest-adapter/"
+    url: "https://github.com/graph-quilt/graphql-service-adapters"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
