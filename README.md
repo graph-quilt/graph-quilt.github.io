@@ -1,8 +1,12 @@
 # graph-quilt.github.io
 
+## Architecture Diagram
+
+![](https://github.com/graph-quilt/.github/blob/main/profile/images/arch/graph-quilt-gateway.png)
+
 ## Setup
 
-Following installation guide [here](https://jekyllrb.com/docs/).  
+Following installation guide [here](https://jekyllrb.com/docs/).
 
 ## Test Locally
 
