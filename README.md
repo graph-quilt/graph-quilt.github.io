@@ -2,7 +2,7 @@
 
 ## Setup
 
-Following installation guide [here](https://jekyllrb.com/docs/).  
+Following installation guide [here](https://jekyllrb.com/docs/).
 
 ## Test Locally
 
