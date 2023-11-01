@@ -28,5 +28,13 @@ docs:
         url: /docs/interface-union-types/
       - title: "Merging Types"
         url: /docs/merging-types/
+  - title: "Rest Adapter"
+    children:
+      - title: "Rest Adapter Overview"
+        url: /docs/rest-adapter/
+      - title: "Service Definition Specification"
+        url: /docs/service-definition-spec/
+      - title: "Config Json Specification"
+        url: /docs/config-json-spec/
 
 

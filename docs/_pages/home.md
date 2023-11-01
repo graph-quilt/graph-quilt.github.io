@@ -31,7 +31,7 @@ feature_row2:
   - #image_path: /assets/images/REPLACE_THIS
     title: "Supports REST APIs"
     excerpt: "With REST Adapter, your REST Services can be part of the unified GraphQL Schema as well!"
-    url: "https://github.com/graph-quilt/graphql-service-adapters"
+    url: "/docs/rest-adapter/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
