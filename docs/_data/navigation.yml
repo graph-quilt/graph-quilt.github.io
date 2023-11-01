@@ -12,8 +12,8 @@ docs:
     children:
       - title: "Getting Started"
         url: /docs/getting-started/
-  #      - title: "Using Built-in GraphiQL"
-  #        url: /docs/using-graphiql/
+#      - title: "Using Built-in GraphiQL"
+#        url: /docs/using-graphiql/
   - title: Key Concepts
     children:
       - title: "Algorithm"
@@ -29,7 +29,7 @@ docs:
       - title: "Merging Types"
         url: /docs/merging-types/
       - title: "Authorization"
-          url: /docs/authorization/
+        url: /docs/authorization/
   - title: "Rest Adapter"
     children:
       - title: "Rest Adapter Overview"
